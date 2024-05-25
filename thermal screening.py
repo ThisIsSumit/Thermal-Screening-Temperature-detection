@@ -2,7 +2,7 @@ import os
 import numpy as np
 import cv2
 
-base_dir = 'Thermal_Screening_Temperature_Detection-main'
+base_dir = 'THERMAL SCREENING'
 threshold = 200
 area_of_box = 700       
 min_temp = 100           
