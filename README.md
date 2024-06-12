@@ -19,7 +19,15 @@ https://github.com/ThisIsSumit/Thermal-Screening-Temperature-detection/assets/12
 
 
 
-
+<br>
+<h2>Components</h2>
+<ul> <li>SpeedyBee SB-F4V3-50-STACK flight controller</li>
+<li>ZMR250/QAV250 Quadcopter Frame</li>
+<li>SF2207 2750kV BLDC Motors</li>
+<li>5045 Tri Blade Propellers</li>
+<li>FOXEER  Cat 3 mini FPV Camera</li>
+<li>Skydroid 5.8G UVC video Receiver</li>
+<li>TS832 FPV 5.8G 600MW 48CH Wireless Audio Video Transmitter</li></ul>
 
 
 <br>
