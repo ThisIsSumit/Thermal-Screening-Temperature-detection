@@ -8,6 +8,9 @@
 
 https://github.com/ThisIsSumit/Thermal-Screening-Temperature-detection/assets/128219730/c1859b49-bb10-4edd-a115-60d231cb6f17
 
+https://github.com/ThisIsSumit/Thermal-Screening-Temperature-detection/assets/128219730/e5fe1138-6d98-44b4-a8ee-aeb30944f536
+
+
 
 
 
