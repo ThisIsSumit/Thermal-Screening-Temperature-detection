@@ -2,7 +2,7 @@
 <br>
 <p>This project implements a real-time thermal screening algorithm that processes video frames from a live camera feed to detect and highlight regions with high temperatures. The algorithm applies a heatmap to the grayscale version of the frames, detects contours of high-temperature areas, and annotates the frames with temperature readings.The output sample includes the output of this code for some images taken from internet to check it's working.</p>
 <br>
-![IMG-20240612-WA0001](https://github.com/ThisIsSumit/Thermal-Screening-Temperature-detection/assets/128219730/3580c32a-1ac4-4c94-b7a8-cdc5df11003b)
+![IMG-20240612-WA0001](https://github.com/ThisIsSumit/Thermal-Screening-Temperature-detection/assets/128219730/0b5b7f97-0900-44ad-a654-5bf0be81d1f3)
 
 <br>
 <h2>Features</h2>
